@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yael Abuhatzira
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack
-- 💞️ I’m looking to collaborate on projects using HTMC/CSS/JS
+- 💞️ I’m looking to collaborate on projects using HTML/CSS/JS
 - 📫 How to reach me : yaeledr@gmail.com
 
 <!---
